@@ -1,0 +1,12 @@
+[
+  {
+    "image_url": "https://example.com/image1.jpg",
+    "input_url": "https://example.com",
+    "filename": "image1.jpg"
+  },
+  {
+    "image_url": "https://example.com/image2.jpg",
+    "input_url": "https://example.com",
+    "filename": "image2.jpg"
+  }
+]
